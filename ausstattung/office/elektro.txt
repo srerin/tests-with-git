@@ -6,4 +6,5 @@ PC
 monitor
 drucker
 papiervernichter
+klimaanlage
 router
