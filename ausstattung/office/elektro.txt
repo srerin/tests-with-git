@@ -1,6 +1,6 @@
 tischlampe
 telefon
 beamer
-computer
+PC
 monitor
 drucker
