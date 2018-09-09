@@ -1,9 +1,6 @@
 kugelschreiber
 bleistifte
 lineal
-stempel
 notizblock
 radiergummi
 scheren
-briefpapier
-umschlage
