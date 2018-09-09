@@ -4,4 +4,6 @@ lineal
 stempel
 notizblock
 radiergummi
-scherren
+scheren
+briefpapier
+umschlage
