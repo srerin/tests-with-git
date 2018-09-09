@@ -3,3 +3,4 @@ telefon
 beamer
 computer
 monitor
+drucker
