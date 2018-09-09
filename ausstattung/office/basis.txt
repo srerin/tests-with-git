@@ -3,3 +3,4 @@ burostuehl
 regal
 garderobe
 schrank fuer ordner
+vehandlungstisch
