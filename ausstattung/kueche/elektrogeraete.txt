@@ -3,3 +3,4 @@ mikrowelle
 toaster
 kaffemaschine
 mixer
+kuechemaschine

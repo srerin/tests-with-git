@@ -2,3 +2,5 @@ esstisch
 4 stuehle
 oberschraenke
 unterschraenke
+gabel
+loeffel
