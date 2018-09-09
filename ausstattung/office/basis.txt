@@ -1,2 +1,3 @@
 tisch
 stuehle
+regal
