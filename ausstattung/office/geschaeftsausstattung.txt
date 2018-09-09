@@ -3,3 +3,4 @@ briefpapier
 stempel
 umschlaege
 notizblock
+flyer
