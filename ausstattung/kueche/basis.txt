@@ -1,2 +1,4 @@
 esstisch
 4 stuehle
+oberschraenke
+unterschraenke
