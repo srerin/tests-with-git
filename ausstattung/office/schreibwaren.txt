@@ -1,6 +1,5 @@
 kugelschreiber
 bleistifte
 lineal
-notizblock
 radiergummi
 scheren
