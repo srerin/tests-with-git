@@ -10,4 +10,4 @@ teller
 untertassen
 glaeser fuer wein
 krug
-töpfe
+toepfe
