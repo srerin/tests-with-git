@@ -2,3 +2,4 @@ herd
 mikrowelle
 toaster
 kaffemaschine
+mixer
