@@ -1,2 +1,3 @@
 tischlampe
 telefon
+beamer
