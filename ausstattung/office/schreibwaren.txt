@@ -1,3 +1,4 @@
 kugelschreiber
 bleistifte
 lineal
+stempel
