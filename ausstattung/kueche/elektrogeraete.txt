@@ -1,3 +1,4 @@
 herd
 mikrowelle
 toaster
+kaffemaschine
