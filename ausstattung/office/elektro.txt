@@ -2,3 +2,4 @@ tischlampe
 telefon
 beamer
 computer
+monitor
