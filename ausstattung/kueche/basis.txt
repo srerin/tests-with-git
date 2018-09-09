@@ -6,3 +6,4 @@ gabel
 loeffel
 teller
 untertassen
+glaeser fuer wein
