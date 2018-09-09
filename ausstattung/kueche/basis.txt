@@ -4,6 +4,7 @@ oberschraenke
 unterschraenke
 gabel
 loeffel
+messer
 teller
 untertassen
 glaeser fuer wein
