@@ -8,3 +8,4 @@ drucker
 papiervernichter
 klimaanlage
 router
+kopierer
