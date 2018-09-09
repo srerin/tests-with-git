@@ -4,3 +4,4 @@ oberschraenke
 unterschraenke
 gabel
 loeffel
+teller
