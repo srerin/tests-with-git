@@ -4,6 +4,7 @@ oberschraenke
 unterschraenke
 gabel
 loeffel
+gabel fuer dessert
 messer
 teller
 untertassen
