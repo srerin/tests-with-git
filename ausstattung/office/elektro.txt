@@ -1,5 +1,6 @@
 tischlampe
 telefon
+fax
 beamer
 PC
 monitor
