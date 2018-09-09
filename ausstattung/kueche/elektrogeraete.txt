@@ -4,3 +4,4 @@ toaster
 kaffemaschine
 mixer
 kuechemaschine
+saftpresser
