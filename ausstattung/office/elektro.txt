@@ -9,3 +9,4 @@ papiervernichter
 klimaanlage
 router
 lampe fuer die decke
+kopierer

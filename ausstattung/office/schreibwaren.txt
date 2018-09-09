@@ -4,3 +4,5 @@ lineal
 radiergummi
 scheren
 büroklammer
+usb-stick
+schreibblock
