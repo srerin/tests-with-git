@@ -3,3 +3,4 @@ bleistifte
 lineal
 stempel
 notizblock
+radiergummi
