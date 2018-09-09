@@ -1,7 +1,10 @@
 tischlampe
 telefon
+fax
 beamer
 PC
 monitor
 drucker
+papiervernichter
+klimaanlage
 router
